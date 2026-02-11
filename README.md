@@ -1,0 +1,2 @@
+# VersionCodeNamingRules
+![VersionCodeNamingRules](VersionCodeNamingRules.png)
